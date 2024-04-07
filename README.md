@@ -1,6 +1,6 @@
 # Desafio Front Smartfit
 
-https://github.com/alexandrefreitass/desafio-smartfit/issues/1#issue-2229958277
+![logo](https://github.com/alexandrefreitass/desafio-smartfit/assets/109884524/b9dc215e-2f08-4a46-a900-74fb7830dd35)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
 
