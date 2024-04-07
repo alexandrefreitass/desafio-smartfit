@@ -14,11 +14,11 @@ Neste desafio, foi implementado as seguintes funcionalidades de acordo com as re
 
 # Funcionalidades
 
-[x] Carrega unidades através do arquivo JSON locations.json utilizando o método GET. 
-[x] Busca por todas as unidades. 
-[x] Busca por unidades com filtros. 
-[x] Previsão do número de resultados encontrados. 
-[x] Listagem das unidades encontradas após a busca.
+[x] Carrega unidades através do arquivo JSON locations.json utilizando o método GET. <br/>
+[x] Busca por todas as unidades. <br/>
+[x] Busca por unidades com filtros. <br/>
+[x] Previsão do número de resultados encontrados. <br/>
+[x] Listagem das unidades encontradas após a busca.<br/>
 
 # Regras de negócio
 
@@ -26,4 +26,3 @@ Filtra unidades abertas ou fechadas.
 Filtra unidades por período de funcionamento.
 Exibe a mensagem "Nenhuma unidade encontrada" quando não há resultados.
 Valida e exibe os ícones corretos de acordo com o status da unidade.
-
