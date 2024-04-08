@@ -26,3 +26,34 @@ Filtra unidades abertas ou fechadas.
 Filtra unidades por período de funcionamento.
 Exibe a mensagem "Nenhuma unidade encontrada" quando não há resultados.
 Valida e exibe os ícones corretos de acordo com o status da unidade.
+
+# Rodando localmente
+
+Clone o projeto
+
+```bash
+  git clone https://github.com/alexandrefreitass/desafio-smartfit.git
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd desafio-smartfit
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm run start
+```
+
+
+# Licença
+
+Este projeto está sob a licença MIT. Consulte o arquivo <a href=“https://github.com/alexandrefreitass/desafio-smartfit/blob/master/LICENSE.txt“>LICENSE</a> para obter mais detalhes.
