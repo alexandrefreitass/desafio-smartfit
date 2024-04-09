@@ -56,4 +56,4 @@ Inicie o servidor
 
 # Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo <a href=“https://github.com/alexandrefreitass/desafio-smartfit/blob/master/LICENSE.txt“>LICENSE</a> para obter mais detalhes.
+Este projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/alexandrefreitass/desafio-smartfit/blob/master/LICENSE.txt">LICENSE</a> para obter mais detalhes.
